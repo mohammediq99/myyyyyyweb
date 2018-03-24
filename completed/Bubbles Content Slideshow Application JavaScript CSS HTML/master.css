@@ -1,0 +1,22 @@
+#bubblecontent {
+    padding: 20px;
+width:650px;
+    height: 500px;
+    border: 1px solid #AAA;
+    margin: 50px auto;
+}
+
+#bubbles {width: auto; margin: 0px auto; text-align: center;}
+#bubbles > div {display: inline-block;width: 10px; height: 10px; margin: 24px 10px 0px 10px; border: 3px soild #999 ; border-radius: 100%;font-size: 17px;text-decoration: none;transition: background 0s;
+}
+
+#bubblecontent {margin: 0px auto ; transition: 0.3 linear 0s ; font-family: monospace ;}
+#bubblecontent > h2 {text-align: center;color:aqua}
+#bubblecontent > p  {font-size: 17px;line-height: 1.8 ; padding: 20px 50px; color: #777;}
+
+
+
+
+
+
+

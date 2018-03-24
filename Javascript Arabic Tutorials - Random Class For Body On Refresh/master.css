@@ -1,0 +1,29 @@
+.class-one h2{
+color :green;
+}
+.class-one p{
+    color:aquamarine;
+}
+
+
+.class-two h2{
+color :brown
+}
+.class-two p{
+    color:darkcyan
+}
+
+
+.class-three h2{
+color :darkmagenta;
+}
+.class-three p{
+    color:dimgray;
+}
+.class-four h2{
+    display: none;
+}
+.class-four p{
+background-color: aqua;
+    display: none
+}

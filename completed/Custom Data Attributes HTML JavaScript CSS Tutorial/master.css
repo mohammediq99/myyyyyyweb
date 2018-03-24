@@ -1,0 +1,14 @@
+body {background-color: #f3f3f3;}
+.rocket {
+    position: absolute;
+    background: url(rocket.png) no-repeat;
+    background-size: 65%;
+    width: 125px;
+    height: 50px;
+    left: 0;
+    transition: left 0s linear 0s;
+    line-height: 4px;
+}
+.rocket[data-alt="100"]{
+    transform: rotate(0deg);
+}

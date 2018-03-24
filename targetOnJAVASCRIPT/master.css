@@ -1,0 +1,11 @@
+div{ display: block;
+    margin-left: 10px;
+    float: left;
+    width: 60px;
+    height: 60px;
+}
+.div1{background-color: #f00}
+.div2{background-color:#05f;}
+.div3{background-color:#080}
+.div4{background-color: #00f}
+#color{border: 1px solid #f50;}
